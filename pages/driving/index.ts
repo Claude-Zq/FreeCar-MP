@@ -27,7 +27,7 @@ Page({
         fee: '0.00',
         markers: [
             {
-                iconPath: "/images/shared/car.svg",
+                iconPath: "/images/shared/car-pos.svg",
                 id: 0,
                 latitude: initialLat,
                 longitude: initialLng,

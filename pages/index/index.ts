@@ -8,7 +8,7 @@ interface Marker {
   height: number
 }
 
-const defaultAvatar = '/images/shared/car.svg'
+const defaultAvatar = '/images/driving/car.svg'
 const initialLat = 29.53832
 const initialLng = 106.613922
 
