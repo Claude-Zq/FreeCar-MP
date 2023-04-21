@@ -6,7 +6,8 @@
     "pages/user/index",
     "pages/license/license",
     "pages/driving/index",
-    "pages/about/index"
+    "pages/about/index",
+    "pages/chat/chat"
   ],
   "window": {
     "backgroundTextStyle": "light",

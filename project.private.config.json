@@ -15,6 +15,13 @@
           "query": "",
           "launchMode": "default",
           "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/chat/chat",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
         }
       ]
     }

@@ -9,6 +9,7 @@
 </view>
 <van-cell title="驾照信息" value="{{licStatus}}" is-link url="/pages/license/license" />
 <van-cell-group title="其他功能">
+  <van-cell title="智能客服" is-link url="/pages/chat/chat" />
   <van-cell title="关于我们" is-link url="/pages/about/index" />
   <van-cell title="清除缓存" bind:click="clearStorage" />
   <van-cell title="当前版本" value="0.1.0" />

@@ -18,3 +18,4 @@ genProto trip
 genProto car
 genProto profile
 genProto common
+genProto chat

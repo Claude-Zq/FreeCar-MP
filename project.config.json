@@ -38,7 +38,8 @@
     "minifyWXML": true,
     "compileHotReLoad": true,
     "ignoreDevUnusedFiles": false,
-    "ignoreUploadUnusedFiles": false
+    "ignoreUploadUnusedFiles": false,
+    "condition": false
   },
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
